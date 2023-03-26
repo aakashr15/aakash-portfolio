@@ -299,14 +299,6 @@ input::-webkit-inner-spin-button {
 
 
 
-/* Apply iOS Safari-specific height */
-@supports (-webkit-touch-callout: none) {
-    @media screen and (max-width: 768px) {
-      .home {
-        height: 80vh;
-      }
-    }
-  }
 
 
 @media (min-width:768px) {
