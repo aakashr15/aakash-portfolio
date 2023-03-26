@@ -132,17 +132,7 @@ a {
 .skills{
     background-image: linear-gradient(rgb(255, 255, 255),#86f2e4);
 }
-/* .skillCard{
-    /* height:10rem;
-    width: 10rem;
-    background-color: #afb1ba;
-    width: 7rem !important;
-    height: 2rem !important;
-} */
-/* .skill_img{
-    height: 6rem;
-    
-} */
+
 .card{
     border: none !important;
     border-radius: 1rem !important;
@@ -150,7 +140,7 @@ a {
 .cardText{
     font-family: "poppins", sans-serif;
     font-weight: 600;
-    font-size: 1.6rem !important;
+    font-size: 1.4rem !important;
 }
 
 
